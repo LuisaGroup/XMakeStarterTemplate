@@ -19,5 +19,8 @@
   ],
   "files.eol":"\n",
   "ccls.misc.compilationDatabaseDirectory": ".vscode",
-  "ccls.cache.directory": ".vscode/.ccls-cache"
+  "ccls.cache.directory": ".vscode/.ccls-cache",
+  // "xmake.runningTargetsArguments": {
+  //   "default": ["dx"]
+  // }
 }
