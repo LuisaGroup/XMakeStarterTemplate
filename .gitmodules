@@ -1,0 +1,3 @@
+[submodule "ext/LuisaCompute"]
+	path = ext/LuisaCompute
+	url = https://github.com/LuisaGroup/LuisaCompute.git
